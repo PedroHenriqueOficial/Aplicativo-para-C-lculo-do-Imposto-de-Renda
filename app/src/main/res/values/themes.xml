@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ImpostoDeRenda" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ImpostoDeRenda" parent="Base.Theme.ImpostoDeRenda" />
+
+    <style name="buttonsAppStyle">
+        <item name="android:backgroundTint">#2196F3</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:titleMarginTop">16dp</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>
